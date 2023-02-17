@@ -1,0 +1,21 @@
+body{
+    font-family:cursive;
+    text-align: center;
+}
+.header {
+    font-size: 60px;
+}
+.title{
+    font-weight: 800;
+    font-style: italic;
+    font-size: 30px;
+}
+.content{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+
+.information{
+    margin-bottom: 50px;
+}
